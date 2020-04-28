@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "hello 海伦"
+theme = "Origin"
+publishDir = "docs"
+[params]
+  featured = false
